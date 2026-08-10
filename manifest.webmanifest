@@ -1,0 +1,19 @@
+{
+  "name": "Daily Points - Habit Tracker",
+  "short_name": "Daily Points",
+  "description": "A private, offline-first habit points tracker with scheduling, streaks, reports, reminders, and autosave.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070d18",
+  "theme_color": "#09101f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
